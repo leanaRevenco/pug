@@ -1,0 +1,22 @@
+<html> 
+    <head>
+        <title>Paper</title>
+        <style>
+            h1 {
+                color:aquamarine;
+                text-align: left;
+            }
+            pop {
+                color:blueviolet;
+                background-color: chocolate;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Me</h1>
+        <p class="pop">I am amazing.</p>
+        <h1>Me</h1>
+        <p class="pop">I love traveling.</p>
+
+    </body>
+</html>
