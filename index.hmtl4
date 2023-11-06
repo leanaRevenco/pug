@@ -3,11 +3,26 @@
     <head>
         <title>school</title>
       <link rel="stylesheet" href="style.css.school" 
+<title>about school</title>
+<link rel="stylesheet" href="style.css.school">
+<style>
+body{
+    background-color:pink;
+}
+h1 {
+    text-align: right;
+}
+.head1{
+    background-color: blue;
+}
+</style>
     </head>
     <body>
         <a href="about.hmtl.school">about school</a>
         <h1> Homework and classwork about school stuff</h1>
         <h1 id="head1">heading1</h1>
         <h1 id="head2">heading2</h1>
+<a href="classwork4">Home to school</a>
+<h1>Classwork 2 about CSS multiplpage</h1>
     </body>
 </html>
