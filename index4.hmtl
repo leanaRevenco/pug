@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>school</title>
-      <link rel="stylesheet" href="style.css.school" 
+        
 <title>about school</title>
-<link rel="stylesheet" href="style.css.school">
+<link rel="stylesheet" href="style.css">
 <style>
 body{
     background-color:pink;
